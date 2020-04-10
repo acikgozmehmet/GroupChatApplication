@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df57faf-9a68-41ac-be59-2a802978d564" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aEgPdGvpTIj2FawRDGprG7xSxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UMKC\__Spring2020\CSEE5110\Project1\Phase-2\GroupChatClientProgram\src\newClient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="ChatBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatBot.ChatBot" />
+      <module name="GroupChatClientProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChatBot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newClient.Client" />
+      <module name="GroupChatClientProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client" />
+      <module name="GroupChatClientProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Test" />
+      <module name="GroupChatClientProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ChatBot" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/sharedfolder/BigDataProgramming/ICP-08/SourceCode/SparkIntroduction" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df57faf-9a68-41ac-be59-2a802978d564" name="Default Changelist" comment="" />
+      <created>1586306143997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586306143997</updated>
+      <workItem from="1586306145639" duration="14508000" />
+      <workItem from="1586369052862" duration="2012000" />
+      <workItem from="1586371182742" duration="4295000" />
+      <workItem from="1586406532920" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1586320767239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586320767239" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1586380861701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586380861701" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586306258790" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1586380861701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586380861701" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586306258790" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1586380861700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586380861700" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586306258790" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1586380861701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586380861701" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586306258790" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586406531939">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586406531939" />
+    <state x="371" y="96" key="extract.method.dialog" timestamp="1586319771581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="extract.method.dialog/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586319771581" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/client/Client.java</url>
+          <line>92</line>
+          <properties class="client.Client" method="startChat">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

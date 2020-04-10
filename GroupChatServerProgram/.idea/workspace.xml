@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e0449d3-0f2e-43f3-ab98-335a2275baa2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZdEOeFKTdbgbhCryL4ms3lQHii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GroupChatClientProgram" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Udemy\Java_Socket_Programming\GroupChatServerProgram" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="GroupChatServerProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherForecast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.WeatherForecast" />
+      <module name="GroupChatServerProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.WeatherForecast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0449d3-0f2e-43f3-ab98-335a2275baa2" name="Default Changelist" comment="" />
+      <created>1585160540659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585160540659</updated>
+      <workItem from="1585160544220" duration="100000" />
+      <workItem from="1585164893957" duration="1643000" />
+      <workItem from="1585168457119" duration="396000" />
+      <workItem from="1585186856304" duration="1158000" />
+      <workItem from="1585198704933" duration="21000" />
+      <workItem from="1585199133099" duration="2978000" />
+      <workItem from="1585374038206" duration="1114000" />
+      <workItem from="1585413595827" duration="10535000" />
+      <workItem from="1585545967758" duration="10000" />
+      <workItem from="1586305521457" duration="349000" />
+      <workItem from="1586306182473" duration="8517000" />
+      <workItem from="1586368960175" duration="1698000" />
+      <workItem from="1586371213530" duration="3237000" />
+      <workItem from="1586374484294" duration="3681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586369044670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586369044670" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585164968527" />
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom" timestamp="1586380774536">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585433989213" />
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585197537212" />
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586305860324" />
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586380774536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585168858805" />
+    <state width="1323" height="250" key="GridCell.Tab.0.center" timestamp="1586380774536">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585433989213" />
+    <state width="1237" height="178" key="GridCell.Tab.0.center/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585197537212" />
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586305860324" />
+    <state width="1323" height="250" key="GridCell.Tab.0.center/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586380774536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585168858805" />
+    <state width="1323" height="250" key="GridCell.Tab.0.left" timestamp="1586380774536">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585433989213" />
+    <state width="1237" height="178" key="GridCell.Tab.0.left/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585197537212" />
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586305860324" />
+    <state width="1323" height="250" key="GridCell.Tab.0.left/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586380774536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585168858805" />
+    <state width="1323" height="250" key="GridCell.Tab.0.right" timestamp="1586380774536">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585433989213" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585197537212" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586305860324" />
+    <state width="1323" height="250" key="GridCell.Tab.0.right/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586380774536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585168858805" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1586368964329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1002" y="176" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585413686116" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586368964329" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585168457318" />
+    <state x="2264" y="306" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586371242035">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state x="2264" y="306" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586371242035" />
+    <state x="2413" y="492" key="extract.method.dialog" timestamp="1586321136691">
+      <screen x="1920" y="253" width="1366" height="728" />
+    </state>
+    <state x="2413" y="492" key="extract.method.dialog/0.0.1280.680/1920.253.1366.728@1920.253.1366.728" timestamp="1586321136691" />
+    <state x="91" y="0" key="new project wizard" timestamp="1586305871112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1269" y="0" key="new project wizard/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585198720079" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/1920.253.1366.728@0.0.1280.680" timestamp="1586305871112" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585164946691" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/server/Server.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
